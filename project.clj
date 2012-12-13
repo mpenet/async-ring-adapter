@@ -1,4 +1,4 @@
-(defproject me.shenfeng/async-ring-adapter
+(defproject cc.qbits/async-ring-adapter
   "1.0.2"
   :description "Ring Netty adapter"
   :dependencies [[clojure "1.3.0"]
